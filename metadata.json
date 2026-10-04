@@ -1,0 +1,6 @@
+{
+  "name": "Bellita The Salon",
+  "description": "Production-grade, single-page website for Bellita The Salon, Kudasan, Gandhinagar. Experience hair, skin, and bridal luxury in a boutique unisex lounge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
